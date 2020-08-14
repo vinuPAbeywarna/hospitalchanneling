@@ -1,0 +1,50 @@
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.exe.config
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.exe
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.pdb
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\XanderUI.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csprojAssemblyReference.cache
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Form1.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.HomePage.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Properties.Resources.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csproj.GenerateResource.cache
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csproj.CopyComplete
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.exe
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.pdb
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Registration.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.ChannelingService.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.ConsaltAndTreatments.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.PatientReportDetails.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.PaymentsDetails.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.SalaryDetails.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.SalaryDetailsdn.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Treatments.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.UserDetails.resources
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\MySql.Data.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Vinu\Documents\project\Chanalindsystem\Chanalindsystem\bin\Debug\MySql.Data.xml
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.exe.config
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.exe
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Chanalindsystem.pdb
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\MySql.Data.dll
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\Renci.SshNet.dll
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\bin\Debug\MySql.Data.xml
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csprojAssemblyReference.cache
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.ConsaltAndTreatments.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Form1.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.HomePage.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.PatientReportDetails.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.PaymentsDetails.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Properties.Resources.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.Registration.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.SalaryDetails.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.UserDetails.resources
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csproj.GenerateResource.cache
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.csproj.CopyComplete
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.exe
+C:\Users\Vinu\Desktop\walls\Completed Project 56~\Chanalindsystem\Chanalindsystem\obj\Debug\Chanalindsystem.pdb
