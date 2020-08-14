@@ -13,6 +13,9 @@ namespace hospitalchanneling
 {
     public partial class Form1 : Form
     {
+        public static int test = 1;
+        public static string utype = "";
+
         public Form1()
         {
             InitializeComponent();
@@ -24,7 +27,7 @@ namespace hospitalchanneling
             string username;
             string userpassword;
 
-            usertype = comtype.SelectedItem.ToString();
+
             username = txtname.Text;
             userpassword = txtpw.Text;
             MySqlConnection sqlCon = null;
@@ -38,9 +41,8 @@ namespace hospitalchanneling
             MySqlDataReader reader;
 
 
-            if (usertype == "Doctor")
-            {
-                command = new MySqlCommand(@"SELECT* FROM doctor WHERE Name='" + username + "'", sqlCon);
+            
+                command = new MySqlCommand(@"SELECT* FROM users WHERE name='" + username + "' AND password='"+ userpassword +"'", sqlCon);
                 reader = command.ExecuteReader();
                 reader.Read();
 
@@ -48,13 +50,16 @@ namespace hospitalchanneling
                 {
                     string databaseUserName;
                     string databasePassword;
-                    databaseUserName = reader.GetString(2);
-                    databasePassword = reader.GetString(1);
+                    databaseUserName = reader.GetString(1);
+                    databasePassword = reader.GetString(2);
+                    //MessageBox.Show(reader.GetString(3));
+                    
 
                     if (userpassword == databasePassword)
                     {
 
                         this.Hide();
+                        utype = reader.GetString(3);
                         Form2 ss = new Form2();
                         ss.Show();
                     }
@@ -64,8 +69,25 @@ namespace hospitalchanneling
                     }
 
 
-                }
+                
             }
+        }
+
+        private void comtype_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+            
+        }
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

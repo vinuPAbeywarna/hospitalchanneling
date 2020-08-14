@@ -17,3 +17,6 @@ C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\obj\Debug\
 C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\bin\Debug\MySql.Data.EntityFramework.dll
 C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\bin\Debug\MySql.Data.EntityFramework.xml
 C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\obj\Debug\hospitalchanneling.Form2.resources
+C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\bin\Debug\MaterialSkin.dll
+C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\bin\Debug\XanderUI.dll
+C:\Users\Vinu\Documents\project\hospitalchanneling\hospitalchanneling\obj\Debug\hospitalchanneling.Form3.resources
