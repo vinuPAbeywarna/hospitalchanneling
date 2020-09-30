@@ -42,7 +42,7 @@ namespace hospitalchanneling
 
 
             
-                command = new MySqlCommand(@"SELECT* FROM users WHERE name='" + username + "' AND password='"+ userpassword +"'", sqlCon);
+                command = new MySqlCommand(@"SELECT* FROM users WHERE name='" + username + "' AND password='"+ userpassword +"';", sqlCon);
                 reader = command.ExecuteReader();
                 reader.Read();
 
